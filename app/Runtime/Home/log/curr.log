@@ -1,0 +1,7 @@
+test	2017-03-17 09:51:10
+Invalid query: select * from stars_admin1	2017-03-17 09:55:34
+Invalid query: INSERT INTO vcard_member() VALUES (' ')	2017-03-23 03:03:53
+Invalid query: INSERT INTO vcard_member(member_name,member_phone,member_email,member_tel,member_job,member_company,member_address,member_note,c_time) VALUES (' fdsa','fd','fas','fdas','dfa','fdas','fdas','afds','1490234781')	2017-03-23 03:06:21
+Invalid query: INSERT INTO vcard_member(member_name,member_phone,member_email,member_tel,member_job,member_company,member_address,member_note,c_time) VALUES (' fdsa','fd','fas','fdas','dfa','fdas','fdas','afds','1490234921')	2017-03-23 03:08:41
+Invalid query: UPDATE vcard_member SET WHERE member_id = 8	2017-03-23 03:09:26
+Invalid query: UPDATE vcard_member SET WHERE member_id = 9	2017-03-23 03:10:23
